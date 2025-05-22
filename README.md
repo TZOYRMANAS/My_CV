@@ -26,10 +26,15 @@ International Hellenic University, Thessaloniki - Greece
 ## 💼 Work Experience
 
 **Internship at Space Hellas - Thessaloniki 2023**  
-Web Development & Bluetooth Scanning Project  
-- Developed a system to detect Bluetooth and BLE devices.  
-- Created the backend in Python to scan and collect device data.  
-- Built the frontend using HTML and JavaScript, integrating map visualization  
+
+**Project:** Bluetooth Device Detection & Web Application Development
+  
+- Performed Bluetooth Classic and BLE device scanning on a Raspberry Pi virtual  
+machine, collecting device data in real time
+- Developed a Python Flask backend to serve the collected data via a RESTful API for  
+frontend consumption
+- Created an interactive web frontend using HTML, JavaScript and Leaflet.js to visualize  
+Bluetooth device locations on a dynamic map  
 
 ---
 
