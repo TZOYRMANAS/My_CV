@@ -34,7 +34,10 @@ machine, collecting device data in real time
 - Developed a Python Flask backend to serve the collected data via a RESTful API for  
 frontend consumption
 - Created an interactive web frontend using HTML, JavaScript and Leaflet.js to visualize  
-Bluetooth device locations on a dynamic map  
+Bluetooth device locations on a dynamic map
+
+[Bluetooth Device LocationMap](https://github.com/TZOYRMANAS/Bluetooth_Device_LocationMap--)
+
 
 ---
 
@@ -82,10 +85,20 @@ Bluetooth device locations on a dynamic map
   - Metasploitable 2 – Practiced scanning, vulnerability exploitation, and basic post-exploitation techniques in a lab environment.
 
 ### 📊 SIEM & Intrusion Detection
-- Operated Wazuh SIEM for log aggregation, alert correlation and custom Sigma rules deployment (thesis project).  
+- Operated Wazuh SIEM for log aggregation, alert correlation and custom Sigma rules deployment (thesis project). [Sigma Rules](https://github.com/TZOYRMANAS/Sigma_rules)
+ 
 - Deployed and maintained Security Onion, integrating Snort, Suricata and Zeek for IDS/IPS and network monitoring  
-- Performed PCAP-based detection using Brim and Zeek logs, and utilized Snort/Suricata rules blending signature and anomaly techniques to accurately identify network threats and reduce false positives.  
+- Performed PCAP-based detection using Brim and Zeek logs, and utilized Snort/Suricata rules blending signature and anomaly techniques to accurately identify network threats and reduce false positives.
 - Integrated alerts monitoring through Squil and leveraged NetworkMiner for detailed packet analysis and incident investigation
+
+
+### Web Development & Database Management
+- Developed PHP scripts for automated JSON API data retrieval and processing.
+- Designed and managed MySQL databases for structured COVID-19 data storage.
+- Configured and maintained XAMPP for local server and database setup.
+- Created dynamic PHP/HTML forms for data entry and display
+  
+[Covid_project](https://github.com/TZOYRMANAS/Covid_project)
 
 ---
 
