@@ -7,7 +7,6 @@
 
 ---
 
-## Dimitrios Tzourmanas
 
 Recent Computer Science graduate with a strong interest in Cyber Security. Currently pursuing a Master’s Degree in Cyber Security. Highly motivated, detail-oriented and a dedicated team player. Completed military service.
 
