@@ -111,7 +111,7 @@ Bluetooth device locations on a dynamic map
   - Introduction to IoT  
   - Networking Basics  
   - Networking Devices & Initial Configuration  
-- Tryhackme: SOC level 1 (40%)
+- Tryhackme: SOC level 1 (50%)
 
 ---
 
